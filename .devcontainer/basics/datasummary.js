@@ -28,3 +28,28 @@ console.log(id === iid);
  console.log(typeof myfunction);
   console.log(typeof heros);
 
+  
+
+// ++++++++++++++++++++++++++++++
+
+let myyoutube = "parakyoutube"
+let anothername = myyoutube
+
+anothername= "chaiorcode"
+console.log(myyoutube);
+console.log(anothername);
+
+let user ={
+   email : "suer@gmail.com" , 
+   upi : "eerr"
+
+}
+
+
+
+let user2 = user
+
+user2.email = "parak@gmail"
+console.log(user.email);
+console.log(user2.email);
+
